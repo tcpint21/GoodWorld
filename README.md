@@ -18,7 +18,7 @@ Jvascript
 
 - Hear the Wind Sing
 - Pinball, 1973
-- Norwegian Wood!
+- Norwegian Wood
 
 ### Sample Tests
 

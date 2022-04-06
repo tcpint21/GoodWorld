@@ -17,6 +17,7 @@ Jvascript
 ## Favorite book
 
 - Hear the Wind Sing
+- Pinball, 1973
 - Norwegian Wood
 
 ### Sample Tests
